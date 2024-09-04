@@ -7,9 +7,9 @@ st.header("Welocme Reegatipalli")
 st.sidebar.header("Explore Projects")
 st.sidebar.markdown(
     """
-    - [Google](https://www.google.com)
-    - [OpenAI](https://www.openai.com)
-    - [Streamlit Documentation](https://docs.streamlit.io)
+    - [Text to Text](https://text-to-text-description.streamlit.app/)
+    - [Image to Text](https://image-to-text-description.streamlit.app/)
+    - [Leetcode Profile](https://leetcode.com/u/BharathKumarReddy_Reegatipalli/)
     """
 )
 
